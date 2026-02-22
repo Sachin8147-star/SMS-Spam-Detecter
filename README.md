@@ -73,30 +73,17 @@ Clone this repository.
 
 Ensure you have the required libraries installed:
 
-code
-Bash
-download
-content_copy
-expand_less
-pip install pandas scikit-learn matplotlib seaborn
+- code
+- Bash
+- download
+- content_copy
+- expand_less
+- pip install pandas scikit-learn matplotlib seaborn
 
 Open task4.ipynb in VS Code or Jupyter Notebook and run all cells.
 
-Author: [Your Name]
+Author: Sachin
 Internship Role: Python Developer
-Deadline: March 02, 2026
 
-💡 Pro-Tips for your GitHub:
 
-The "Human" Touch: In the "Results" section, replace ~98% with the actual accuracy number your code printed out.
 
-Add a Screenshot: If you want to go the extra mile, take a screenshot of your bar chart (the "Spam vs Ham" graph) and upload it to the repo, then link it in the README.
-
-Commit Messages: When you upload to GitHub, don't just say "upload files." Use messages like:
-
-"Initial commit: added dataset and basic script"
-
-"Finished preprocessing and TF-IDF vectorization"
-
-"Added final evaluation and README"
-This shows the recruiter that you worked on it over time.
