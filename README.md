@@ -82,8 +82,8 @@ Ensure you have the required libraries installed:
 
 Open task4.ipynb in VS Code or Jupyter Notebook and run all cells.
 
-**Author: Sachin**
-**Internship Role: Python Developer**
+### Author: Sachin
+### Internship Role: Python Developer
 
 
 
